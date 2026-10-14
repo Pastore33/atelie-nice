@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+test-results/
+playwright-report/
+.tools/
+artifacts/
+*Zone.Identifier
+.DS_Store
+Thumbs.db
